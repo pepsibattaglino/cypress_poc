@@ -24,7 +24,7 @@ npx cypress open
 ## Config
 
 ### Intellisense
-In order to enable the intellisense, create `cypress/tsconfig.json` file and copy the above config:
+In order to enable the intellisense, create `cypress/tsconfig.json` file and copy the below config:
 
 ```json
 {
